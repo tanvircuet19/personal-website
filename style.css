@@ -1,0 +1,97 @@
+body{
+    margin: 0px;
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font: weight 200px;;
+}
+h2{
+    font-size: 40px;
+}
+.pink-highlight{
+    color:deeppink;
+}
+p{
+    color: dimgray;
+}
+
+
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(deeppink,deeppink);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700px;
+}
+.half-width{
+    width: 37%;
+    float: left;
+    margin: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 100%;
+}
+section{
+    height: 700px;
+    padding-bottom: 300px;
+}
+.header-part{
+    background-image: url("images/header-bg.png");
+    background-repeat: no-repeat;
+}
+.biography{
+    background-image: url("images/biography-bg.png");
+    background-repeat: no-repeat;
+    background-position-x: left;
+}
+
+.one-third-width{
+    width: 20%;
+    float: left;
+    margin: 5%;
+    padding-left: 2%;  
+}
+.one-third-width img{
+    width: 100%;
+}
+h4{
+    text-align: center;
+    font-size: 20px;
+}
+.my-latest-work{
+    text-align: center;
+    background-image: url("images/latest-work-bg.png");
+    background-repeat: no-repeat;
+}
+.what-client-are-say{
+    background-image: url("images/footer-bg.png");
+    background-repeat: no-repeat;
+    background-position-x: left;
+    text-align: center;
+}
+h1{
+    font-weight: normal;
+}
+.meassage{
+    
+    background-image: linear-gradient(deeppink,deeppink);
+    height: 100px;
+    width: 60%;
+    padding-top: 80px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700px;
+}     
+    
+#meassage-box{
+    padding-left:28%;
+    padding-top:200px;
+}
+footer p{
+    text-align: center;
+    font-size: 14px;
+    padding-top: 300px;
+}
+
